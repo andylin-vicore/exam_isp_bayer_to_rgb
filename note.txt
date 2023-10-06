@@ -1,0 +1,13 @@
+#exam:
+write code (c++, python, ...) to process bayer raw to rgb image.
+opencv or other image libraries can't be used in processing except reading/writing image.
+
+#file:
+- There are 2 raw 
+- ex1.raw, ex2.raw:
+	width,height: 1920x1080
+	bayer format: ?
+	bit depth: ?
+	ob: 32
+	processing modules (minimum used in program): ob, gamma, rgb gain, demosaic
+
